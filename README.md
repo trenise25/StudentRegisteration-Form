@@ -1,1 +1,1 @@
-Student Registeration Form
+Student Registration Form
